@@ -63,6 +63,14 @@ container {
     height: 15%;
 }
 
+#earth-header {
+    width: 100%;
+}
+
+#earth-header img {
+    width: 100%;
+}
+
 /* Sidebar Styles */
 
 .nav-1 {
